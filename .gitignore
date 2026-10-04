@@ -1,0 +1,13 @@
+# ROS 2 colcon build artifacts
+build/
+install/
+log/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Editor and operating-system files
+.DS_Store
+.vscode/
