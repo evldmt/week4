@@ -6,7 +6,7 @@ Hello Professor,
 
 I prepared the Week 4 ROS 2 activity repository. It includes the command procedure and an analysis of each command. The practical commands are documented for execution in my VM.
 
-GitHub repository: **[PASTE MY GITHUB REPOSITORY LINK HERE]**
+GitHub repository: **https://github.com/evldmt/week4**
 
 The activity covers:
 
@@ -21,4 +21,4 @@ Thank you.
 
 ---
 
-Before posting, replace the bold placeholder with the real GitHub URL. If I later add VM evidence, it will contain only my own output.
+If I later add VM evidence, it will contain only my own output.
